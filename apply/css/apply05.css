@@ -16,6 +16,16 @@ img {
   width: 100%;
   display: block;
 }
+
+/* Style rules for mobile viewport */
+
+
+/* Style rule to hide tablet-desk class */
+tablet-desk {
+  visibility: hidden;
+}
+
+
 /* Style rule for header */
 header {
 	font-family: Verdana, Arial, sans-serif;
