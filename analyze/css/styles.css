@@ -23,6 +23,10 @@ img {
 /* Mobile viewport */
 
 
+/* Tablet-desktop Hidden*/
+.tablet-desktop {
+  display: none;
+}
 
 /* Style rules for header content */
 header h1 {
@@ -68,6 +72,28 @@ main {
 main p {
     font-size: 1.25em;
 }
+
+/* Style rule for btn*/
+.btn {
+  background-color: #375f1b;
+  padding: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.btn class {
+  color: #ebf7e3;
+  text-decoration: none;
+  font-size: 1.25em;
+  display: block;
+}
+
+
 
 /* Style rules for footer content */
 footer {
