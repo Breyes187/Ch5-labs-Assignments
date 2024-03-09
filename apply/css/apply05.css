@@ -1,4 +1,4 @@
-/* Style sheet created by: Student's First Name Student's Last Name, Today's Date */
+/* Style sheet created by: Brandon Reyes 3/6/2024 */
 
 /* CSS Reset */
 body, header, nav, main, footer, h1, div, img, ul {
@@ -69,7 +69,7 @@ main {
 	margin: 1% 1% 15%;
 	padding: 1%;
   font-size: 1.5em;
-  font-family: Crimson text; 
+  font-family: Crimson text;
 }
 
 .corner {
