@@ -86,7 +86,7 @@ main p {
   border-radius: 5px;
 }
 
-.btn class {
+.btn a {
   color: #ebf7e3;
   text-decoration: none;
   font-size: 1.25em;
